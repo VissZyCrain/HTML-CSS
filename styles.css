@@ -1,0 +1,20 @@
+h1 {
+    font-size: 50px;
+    color:#d9f428fc;
+    background-color: rgba(49, 13, 228, 0.93);}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+    }
+
+h3 {
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    text-shadow: 1px 1px 2px pink;;
+}
+
+table{
+    color:#3500f5a8;
+    font-size: 20px;}
